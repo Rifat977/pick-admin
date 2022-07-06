@@ -5,7 +5,7 @@ export const siteSettings = {
   name: "PickBazar",
   description: "",
   logo: {
-    url: "/logo.svg",
+    url: "/logo2.svg",
     alt: "PickBazar",
     href: "/",
     width: 128,
