@@ -35,4 +35,8 @@ export const typeIconList = [
     value: "Bakery",
     label: "Bakery",
   },
+  {
+    value: "ElectronicsIcon",
+    label: "Electronics Icon",
+  },
 ];
