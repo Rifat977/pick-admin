@@ -132,7 +132,7 @@ export default function ShopPage() {
               {t("common:text-visit-shop")}
             </a>
           </div>
-        </div>
+        </div> 
       </div>
 
       {/* Cover Photo */}
