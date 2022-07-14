@@ -2,7 +2,7 @@
   "build": {
     "env": {
       "NEXT_PUBLIC_REST_API_ENDPOINT": "https://habibishoppy.azurewebsites.net/",
-      "NEXT_PUBLIC_SHOP_URL": "https://qatarestore.vercel.app/"
+      "NEXT_PUBLIC_SHOP_URL": "https://qatarestore.com"
     }
   }
 }
